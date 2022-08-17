@@ -25,10 +25,10 @@ Requirements:
 ---------------
 
 You have to install all tools/cli below before start:
-`NodeJS <https://nodejs.org/en/download/>`__
-`Docker <https://docs.docker.com/desktop/>`__
-`Kubernetes <https://kubernetes.io/releases/download/>`__
-`Scaffold <https://skaffold.dev/>`__
+- [NodeJS](https://nodejs.org/en/download/)
+- [Docker](https://docs.docker.com/desktop/)
+- [Kubernetes](https://kubernetes.io/releases/download/)
+- [Scaffold](https://skaffold.dev/)
 
 Installation:
 ---------------
