@@ -22,18 +22,18 @@ Getting Started
 This README is for the creating Blog App using React and NodeJS microservices.
 
 Requirements:
-~~~~~~~~~~~~
+---------------
 
 You have to install all tools/cli below before start:
 
-- `NodeJS <https://nodejs.org/en/download/>`__
-- `Docker <https://docs.docker.com/desktop/>`__
-- `Kubernetes <https://kubernetes.io/releases/download/>`__
-- `Scaffold <https://skaffold.dev/>`__
+`NodeJS <https://nodejs.org/en/download/>`__
+`Docker <https://docs.docker.com/desktop/>`__
+`Kubernetes <https://kubernetes.io/releases/download/>`__
+`Scaffold <https://skaffold.dev/>`__
 
 Installation:
-~~~~~~~~~~~~
-1. You need to create all Docker image for the following Dockerfile in dedicated folders:
+---------------
+You need to create all Docker image for the following Dockerfile in dedicated folders:
 
 -  Posts
 -  Comments
